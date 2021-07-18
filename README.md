@@ -1,16 +1,11 @@
 # getx_tw
 
-A new Flutter project.
+Source code for the talk on GetX for state and dependency Management in the Screenshot's Session at Thoughtworks
 
-## Getting Started
+Steps to run
 
-This project is a starting point for a Flutter application.
+`git clone https://github.com/nikhilmufc7/GetXTalk-TW.git`
 
-A few resources to get you started if this is your first Flutter project:
+`flutter pub get`
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+`flutter run`
